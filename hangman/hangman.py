@@ -1,6 +1,6 @@
 import random
 
-available_words = ["python", "java", "swift", "javascript", "kotlin", "Ruby", "typescript", "visualbasic"]
+available_words = ["python", "java", "swift", "javascript", "kotlin", "ruby", "typescript", "visualbasic"]
 games_won = 0
 games_lost = 0
 
